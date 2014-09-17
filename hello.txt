@@ -10,4 +10,5 @@ git checkout -b feature1
 #git checkout feature1
 git checkout master
 git merge feature1
+git branch -d feature1
 
