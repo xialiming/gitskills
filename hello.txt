@@ -5,4 +5,5 @@ git commit hello.txt
 
 git push origin master
 
-git checkout -b dev
+git merge feature1
+
