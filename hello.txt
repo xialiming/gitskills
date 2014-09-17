@@ -1,2 +1,6 @@
+git clone git@github.com:xialiming/gitskills.git
+
 git add hello.txt
 git commit hello.txt
+
+git push origin master
